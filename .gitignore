@@ -112,3 +112,7 @@ venv*
 
 # DS Store
 .DS_store
+
+# pycharm
+.idea/*
+
